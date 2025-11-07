@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2ece926e95afb78fb9cf036f9edaf583b4a3ceca",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-11-07T12:08:55.000Z",
       "message": "feat: suma cadena de un numero cualquiera",
-      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/2ece926e95afb78fb9cf036f9edaf583b4a3ceca"
     },
     "stats": {
       "total": 49,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-11-07T12:27:55.000Z",
+      "message": "feat: suma una cadena de dos sumeros",
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 32,
+      "deletions": 0,
+      "date": "2025-11-07"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
