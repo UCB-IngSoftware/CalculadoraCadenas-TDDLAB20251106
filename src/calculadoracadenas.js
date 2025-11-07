@@ -5,7 +5,9 @@ export default function sumarCadena(cadena) {
   const numeros = cadena.split(",");
   let resultado = 0;
   for (const numero of numeros) {
-    resultado += Number.parseInt(numero);
+    if (numero < 1000) {
+      resultado += Number.parseInt(numero);
+    }
   }
   return resultado;
 }

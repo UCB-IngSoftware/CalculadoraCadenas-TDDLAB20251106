@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "78d3b443b53f30d78d71067ae8d5cd7c6926df4e",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-11-07T12:47:32.000Z",
       "message": "feat: se anade gitattributes para que no se tome en cuenta los logs",
-      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/78d3b443b53f30d78d71067ae8d5cd7c6926df4e"
     },
     "stats": {
       "total": 7,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-11-07T12:51:56.000Z",
+      "message": "feat: ignora numeros mayores a 1000 en la suma",
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-11-07"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

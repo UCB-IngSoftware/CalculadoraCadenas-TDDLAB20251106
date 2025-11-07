@@ -188,9 +188,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "78d3b443b53f30d78d71067ae8d5cd7c6926df4e",
     "commitName": "feat: se anade gitattributes para que no se tome en cuenta los logs",
     "commitTimestamp": 1762519652641,
     "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1762519826132,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1762519896564,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: ignora numeros mayores a 1000 en la suma",
+    "commitTimestamp": 1762519916717,
+    "testId": 7
   }
 ]

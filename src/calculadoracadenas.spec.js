@@ -16,4 +16,8 @@ describe("Calculadora de cadenas", () => {
   it("deberia retornar la suma de los numero de una cadena de varios numeros separados por coma", () => {
     expect(sumarCadena("3,4,7,1")).toEqual(15);
   });
+
+  it("deberia ignorar numeros mayores a 1000 en la suma", () => {
+    expect(sumarCadena("2,1001,7,1")).toEqual(10);
+  });
 });
